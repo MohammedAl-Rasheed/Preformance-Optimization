@@ -1,0 +1,16 @@
+GPU overclock is a childs play these days  
+
+Run some benchmark in the background and adjust the settings on the fly. First Increase the Power Limit to the MAX & 
+if you want the highest OC the voltage should be on MAX as well. 
+
+After every change hit Apply. Then start increasing the memory clock with 50 - 100mhz at a time. Try first with +300. 
+You can have more improvement from vRAM than Core speed.
+
+ Each time you raise the clock watch for artifacts, screen flickering & other anomalies. Back down 10-15mhz if you see 
+something unusual on the screen (decrease until you have a good picture). 
+
+When you reached the highest stable memory speed make the same with the Core Clock. When you set your final OC, benchmark 
+for a longer period to be sure it's stable. 
+
+Always set custom Fan Curves- on Pascal cards the core speeds depends heavily on temps so you need your card as cool as 
+possible to get the highest core speed. 

@@ -1,0 +1,1 @@
+second link drag to desktop open drivers press setup and than put options to all press on ur controller binterval - install service put default to 1000 and apply filter 

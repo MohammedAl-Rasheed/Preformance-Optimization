@@ -1,0 +1,5 @@
+PARK CONTROL READ ME
+Open CMD as admin and enter this command below
+"powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61"
+Setup park control than once done open and put the option to ultimate preformance instead of balanced or whatever there was
+before

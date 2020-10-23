@@ -1,0 +1,30 @@
+PC OPTIMIZATIONS:
+
+Startup Apps
+Windows key+r → msconfig → “Startup” tab
+Uncheck everything unless you absolutely need it. Launch it manually when you need it.
+Your PC will start up faster, and once started will run fewer unnecessary programs (minimal impact
+
+Background Apps
+Go to background apps in system settings 
+Turn it off at the top 
+Your PC will run faster, and will have lower latency and better preformance (minimal impact)
+
+Advanced System Settings
+Go to preformance and check the best for preformance
+Go to startup and revory settings and uncheck the "time to display list of operating systems"
+
+Windows Settings
+Settings - Systen - Notifications And Actions - disable all
+Settings - System - Focus assist - Turn it off
+Settings - System - Storage - Turn off storage sense
+Settings - Display - turn off "show animations in windows
+
+Debloat Windows
+Control pannel - Uninstall a program - uninstall any program you dont use
+
+Graphic Settings
+Settings - Display - Graphic settings - Browse - C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64
+Right click the 'FortniteClient-Win64-Shipping' file > properties > compatibility 
+> check 'disable fullscreen optimizations' > apply 
+Than go back and click on it and than when it takes you back go click options and click high preformance

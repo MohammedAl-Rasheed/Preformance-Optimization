@@ -1,0 +1,11 @@
+PROCESS LASSO READ ME:
+
+DOWNLOAD PROCCESS LASSO
+
+Press the Options menu, go to General Settings, Reconfigure the way Process Lasso starts. For the first box select 
+“Do not start at login”, the second box select “Start at login for ALL users,” press Next, “Manage ALL processes 
+Process Lasso has access to”, click finish. 
+
+ Highlight all programs (ctrl+a), right click, Priority class always on Idle.
+
+
